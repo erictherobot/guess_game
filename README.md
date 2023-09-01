@@ -8,7 +8,7 @@ This is a simple number guessing game written in C++. The computer generates a r
 
 ### Linux/Mac
 
-1. Open your terminal and navigate to the folder containing the C++ file (either `guess_game.cpp`).
+1. Open your terminal and navigate to the folder containing the C++ file (`guess_game.cpp`).
 2. Compile the code:
 
    ```bash
