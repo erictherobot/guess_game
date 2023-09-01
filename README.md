@@ -10,15 +10,10 @@ This is a simple number guessing game written in C++. The computer generates a r
 
 1. Open your terminal and navigate to the folder containing the C++ file (either `guess_game.cpp`).
 2. Compile the code:
+
    ```bash
    g++ guess_game.cpp -o guess_game
    ```
-
-or
-
-```bash
-g++ guess_game.cpp -o guess_game
-```
 
 3. Run the executable:
 
